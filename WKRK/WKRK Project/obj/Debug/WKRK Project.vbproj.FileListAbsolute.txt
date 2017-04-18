@@ -1,0 +1,10 @@
+C:\Users\bandi srikanth\Downloads\VB_12_DataFiles\Data Files\VbReloaded2012\Chap10\WKRK solution\WKRK Project\bin\Debug\WKRK Project.exe.config
+C:\Users\bandi srikanth\Downloads\VB_12_DataFiles\Data Files\VbReloaded2012\Chap10\WKRK solution\WKRK Project\bin\Debug\WKRK Project.exe
+C:\Users\bandi srikanth\Downloads\VB_12_DataFiles\Data Files\VbReloaded2012\Chap10\WKRK solution\WKRK Project\bin\Debug\WKRK Project.pdb
+C:\Users\bandi srikanth\Downloads\VB_12_DataFiles\Data Files\VbReloaded2012\Chap10\WKRK solution\WKRK Project\bin\Debug\WKRK Project.xml
+C:\Users\bandi srikanth\Downloads\VB_12_DataFiles\Data Files\VbReloaded2012\Chap10\WKRK solution\WKRK Project\obj\Debug\WKRK_Project.MainForm.resources
+C:\Users\bandi srikanth\Downloads\VB_12_DataFiles\Data Files\VbReloaded2012\Chap10\WKRK solution\WKRK Project\obj\Debug\WKRK_Project.Resources.resources
+C:\Users\bandi srikanth\Downloads\VB_12_DataFiles\Data Files\VbReloaded2012\Chap10\WKRK solution\WKRK Project\obj\Debug\WKRK Project.vbproj.GenerateResource.Cache
+C:\Users\bandi srikanth\Downloads\VB_12_DataFiles\Data Files\VbReloaded2012\Chap10\WKRK solution\WKRK Project\obj\Debug\WKRK Project.exe
+C:\Users\bandi srikanth\Downloads\VB_12_DataFiles\Data Files\VbReloaded2012\Chap10\WKRK solution\WKRK Project\obj\Debug\WKRK Project.xml
+C:\Users\bandi srikanth\Downloads\VB_12_DataFiles\Data Files\VbReloaded2012\Chap10\WKRK solution\WKRK Project\obj\Debug\WKRK Project.pdb
